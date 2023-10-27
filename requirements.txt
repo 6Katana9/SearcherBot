@@ -1,0 +1,3 @@
+pytelegrambotapi
+telethon
+python-decouple
